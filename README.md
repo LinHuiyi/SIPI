@@ -1,6 +1,6 @@
 # SIPI (SNP Interaction Pattern Identifier)
 
-![SIPI Logo](https://user-images.githubusercontent.com/14879989/34347408-8b1231e0-e9c8-11e7-83ee-5a894ec26f45.jpg){:height="150px" width="150px"}
+![SIPI Logo](https://user-images.githubusercontent.com/14879989/34347408-8b1231e0-e9c8-11e7-83ee-5a894ec26f45.jpg| width=100)
 
 
 
