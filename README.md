@@ -1,6 +1,8 @@
 # SIPI (SNP Interaction Pattern Identifier)
 
-![SIPI Logo](https://user-images.githubusercontent.com/14879989/34347408-8b1231e0-e9c8-11e7-83ee-5a894ec26f45.jpg){width=50% }
+![SIPI Logo](https://user-images.githubusercontent.com/14879989/34347408-8b1231e0-e9c8-11e7-83ee-5a894ec26f45.jpg){:height="36px" width="36px"}
+
+
 
 SIPI evaluates SNP-SNP interactions associated with a binary or continuous outcome. The primary strengths of SIPI are (1) taking nonhierarchical models, reverse coding and inheritance modes (dominant, recessive and additive mode) into consideration and (2) using BIC to search for a best interaction pattern. For each SNP pair, the SIPI evaluates **45 interaction models**. The best interaction pattern is the one with the lowest value of the Bayesian information criterion (BIC).
 
