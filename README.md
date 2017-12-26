@@ -4,5 +4,5 @@ SIPI evaluates SNP-SNP interactions associated with a binary or continuous outco
 
 ### Reference: 
 
-Lin HY, Chen DT, Huang PY, Liu YH, Ochoa A, Zabaleta J,Mercante DE, Fang Z, Sellers TA, Pow-Sang JM, Cheng CH, Eeles R, Easton D, Kote-Jarai Z, Amin Al Olama A, Benlloch S, Muir K, Giles GG, Wiklund F, Gronberg H, Haiman CA, Schleutker J, Nordestgaard BG, Travis RC, Hamdy F, Pashayan N, Khaw KT, Stanford JL, Blot WJ, Thibodeau SN, Maier C, Kibel AS, Cybulski C, Cannon-Albright L, Brenner H, Kaneva R, Batra J, Teixeira MR, Pandha H, Lu YJ, Consortium P, Park JY. SNP interaction pattern identifier (SIPI): an intensive search for SNP-SNP interaction patterns. Bioinformatics. 2016. PubMed PMID:28039167.
+Lin HY, Chen DT, Huang PY, Liu YH, Ochoa A, Zabaleta J,Mercante DE, Fang Z, Sellers TA, Pow-Sang JM, Cheng CH, Eeles R, Easton D, Kote-Jarai Z, Amin Al Olama A, Benlloch S, Muir K, Giles GG, Wiklund F, Gronberg H, Haiman CA, Schleutker J, Nordestgaard BG, Travis RC, Hamdy F, Pashayan N, Khaw KT, Stanford JL, Blot WJ, Thibodeau SN, Maier C, Kibel AS, Cybulski C, Cannon-Albright L, Brenner H, Kaneva R, Batra J, Teixeira MR, Pandha H, Lu YJ, Consortium P, Park JY. SNP interaction pattern identifier (SIPI): an intensive search for SNP-SNP interaction patterns. Bioinformatics. 2017;33(6):822-33. PubMed PMID:28039167.
 
